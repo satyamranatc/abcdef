@@ -8,10 +8,7 @@
 - B
 - C
 
-`   
-TO RUN THIS FILE USE F5
-
-`
+ ` TO RUN THIS FILE USE F5 `
 
 ![Photo](https://www.ntaskmanager.com/wp-content/uploads/2020/02/What-is-a-Project-1-scaled.jpg)
 

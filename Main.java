@@ -4,6 +4,6 @@ public class Main {
     {
         System.out.println("Hello Java!");
         System.out.println("Hello Devloper!");
-        System.out.println("Exp F1!");
+        System.out.println(" Bye Devloper!");
     }
 }
